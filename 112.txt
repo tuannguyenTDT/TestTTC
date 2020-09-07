@@ -1,0 +1,9 @@
+5	1	2	3	
+9	8	8	9	
+5	4	2	6	
+tong cua cot thu 1 = 19
+tong cua cot thu 2 = 13
+tong cua cot thu 3 = 12
+tong cua cot thu 4 = 18
+co 2 tong cot la so chan
+trung binh cong cua cac phan tu chan < 12 la : 5.0
